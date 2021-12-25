@@ -1,0 +1,14 @@
+.footer {
+  padding: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 24px;
+  font-weight: 600;
+}
+
+.footer a {
+  text-decoration: none;
+  color: blueviolet;
+  padding-left: 3px;
+}

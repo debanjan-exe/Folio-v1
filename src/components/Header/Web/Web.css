@@ -15,6 +15,11 @@
   color: black;
   display: flex;
   align-items: center;
+  transition: all 0.1s ease-in-out;
+}
+
+.web-option a:hover {
+  color: blueviolet;
 }
 
 .option-icon {

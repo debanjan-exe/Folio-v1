@@ -9,25 +9,25 @@ const Mobile = ({ isOpen, setIsOpen }) => {
             </div>
             <div className="mobile-options">
                 <div className='mobile-option'>
-                    <a href='#project'>
+                    <a href='#projects' onClick={() => setIsOpen(!isOpen)}>
                         <i className="fi fi-rr-edit-alt option-icon"></i>
                         Projects
                     </a>
                 </div>
                 <div className='mobile-option'>
-                    <a href='#skills'>
+                    <a href='#skills' onClick={() => setIsOpen(!isOpen)}>
                         <i className="fi fi-rr-laptop option-icon"></i>
                         Skills
                     </a>
                 </div>
                 <div className='mobile-option'>
-                    <a href='#work'>
+                    <a href='#work' onClick={() => setIsOpen(!isOpen)}>
                         <i className="fi fi-rr-briefcase option-icon"></i>
                         Work
                     </a>
                 </div>
                 <div className='mobile-option'>
-                    <a href='#contact'>
+                    <a href='#contact' onClick={() => setIsOpen(!isOpen)}>
                         <i className="fi fi-rr-user option-icon"></i>
                         Contact
                     </a>

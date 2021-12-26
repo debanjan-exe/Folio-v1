@@ -7,7 +7,7 @@ const Header = () => {
     const [isOpen, setIsOpen] = useState(false);
     return (
         <div className='header'>
-            <div className="logo"><a href="deba-sample-folio.netlify.app">Overreacted</a></div>
+            <div className="logo"><a href="https://debanjan-folio.netlify.app/"><i className="fi fi-rr-heart"></i></a></div>
             <div className="menu">
                 <div className='web-menu'>
                     <Web />

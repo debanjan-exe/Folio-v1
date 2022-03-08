@@ -21,6 +21,11 @@
   font-size: 32px;
 }
 
+.info-line {
+  color: rgb(98, 0, 255);
+  font-size: 32px;
+}
+
 @media only screen and (max-width: 720px) {
   .about-top {
     flex-direction: column;
@@ -39,6 +44,11 @@
   }
 
   .info-name {
+    font-size: 26px;
+  }
+
+  .info-line {
+    padding-top: 30px;
     font-size: 26px;
   }
 }

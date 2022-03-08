@@ -20,12 +20,12 @@ const Mobile = ({ isOpen, setIsOpen }) => {
                         Skills
                     </a>
                 </div>
-                <div className='mobile-option'>
+                {/* <div className='mobile-option'>
                     <a href='#work' onClick={() => setIsOpen(!isOpen)}>
                         <i className="fi fi-rr-briefcase option-icon"></i>
                         Work
                     </a>
-                </div>
+                </div> */}
                 <div className='mobile-option'>
                     <a href='#contact' onClick={() => setIsOpen(!isOpen)}>
                         <i className="fi fi-rr-user option-icon"></i>

@@ -14,9 +14,9 @@ const Contact = () => {
                     <SocialContact />
                 </div>
                 <div className='download'>
-                    <a download href={require("../../../assets/Resume-Debanjan.pdf")}>
+                    <a target="_blank" href="https://drive.google.com/file/d/1CskgRuK8s1ipgtf2Seuqq5xq7WUDdl4R/view" rel="noreferrer">
                         <i className="fi fi-rr-cloud-download download-icon"></i>
-                        Download Resume
+                        Resume
                     </a>
                 </div>
             </div>

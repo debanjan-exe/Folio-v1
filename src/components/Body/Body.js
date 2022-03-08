@@ -3,7 +3,7 @@ import "./Body.css"
 import About from "./About/About"
 import Projects from "./Projects/Projects"
 import Skills from "./Skills/Skills"
-import Work from "./Work/Work"
+// import Work from "./Work/Work"
 import Contact from "./Contact/Contact"
 
 const Body = () => {

@@ -82,16 +82,16 @@ export const SkillsData = [
                 icon: <i className="devicon-github-original colored"></i>,
             },
             {
+                name: "Bash",
+                icon: <i class="devicon-bash-plain colored"></i>,
+            },
+            {
                 name: "Heroku",
                 icon: <i className="devicon-heroku-original colored"></i>,
             },
             {
                 name: "Photoshop",
                 icon: <i className="devicon-photoshop-plain colored"></i>,
-            },
-            {
-                name: "Illustrator",
-                icon: <i className="devicon-illustrator-plain colored"></i>,
             },
         ]
     },

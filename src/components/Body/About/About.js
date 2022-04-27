@@ -7,7 +7,7 @@ const About = () => {
         <div className='about'>
             <div className="about-top">
                 <div className='about-info'>
-                    Hello There 🤘🏻, I am <br /> <span className='info-name'>Debanjan,</span> <br /> Upcoming Graduate of computer science with experience across the full-stack software
+                    Hello There 🤘🏻, I am <br /> <span className='info-name'>Debanjan,</span> <br /> Upcoming Graduate of computer science with experience across the full-stack web
                     development.<br /><span className='info-line'> love experimenting with web.</span>
                 </div>
                 <div className='about-photo'>

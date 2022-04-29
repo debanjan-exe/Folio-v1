@@ -47,6 +47,10 @@ export const SkillsData = [
                 name: "Angular",
                 icon: <i className="devicon-angularjs-plain colored"></i>,
             },
+            {
+                name: "NextJS",
+                icon: <i class="devicon-nextjs-original colored"></i>,
+            },
         ]
     },
     {

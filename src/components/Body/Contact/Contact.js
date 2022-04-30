@@ -14,7 +14,7 @@ const Contact = () => {
                     <SocialContact />
                 </div>
                 <div className='download'>
-                    <a target="_blank" href="https://drive.google.com/file/d/1CM6efxDzjCIHb-NB_S7_BC7DEdy0MVAW/view?usp=sharing" rel="noreferrer">
+                    <a target="_blank" href="https://drive.google.com/file/d/15ExJ8ge-iKR_vCDNeMkhdTb364s8CiFO/view" rel="noreferrer">
                         <i className="fi fi-rr-cloud-download download-icon"></i>
                         Resume
                     </a>

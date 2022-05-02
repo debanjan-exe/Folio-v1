@@ -49,7 +49,7 @@ export const SkillsData = [
             },
             {
                 name: "NextJS",
-                icon: <i class="devicon-nextjs-original colored"></i>,
+                icon: <i className="devicon-nextjs-original colored"></i>,
             },
         ]
     },
@@ -87,7 +87,7 @@ export const SkillsData = [
             },
             {
                 name: "Bash",
-                icon: <i class="devicon-bash-plain colored"></i>,
+                icon: <i className="devicon-bash-plain colored"></i>,
             },
             {
                 name: "Heroku",

@@ -55,7 +55,7 @@ export const ProjectData = [
     {
         id: 6,
         title: "Music-Player:Grove On It",
-        about: "A Simple looking Music Player web-app with aesthetic and interactive well responsive UI, styled using SASS & CSS",
+        about: "A Simple looking Music Player web-app with aesthetic and interactive well responsive UI, styled using SASS & CSS.",
         tags: ["ReactJS", "CSS", "SASS", "VanillaJS", "Responsive-Web-Design."],
         demo: "https://debanjan-exe.github.io/music-player-webapp/",
         github: "https://github.com/debanjan-exe/music-player-webapp",

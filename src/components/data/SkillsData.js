@@ -57,6 +57,10 @@ export const SkillsData = [
         type: "Backend",
         list: [
             {
+                name: "Firebase",
+                icon: <i class="devicon-firebase-plain colored"></i>,
+            },
+            {
                 name: "NodeJS",
                 icon: <i className="devicon-nodejs-plain colored"></i>,
             },

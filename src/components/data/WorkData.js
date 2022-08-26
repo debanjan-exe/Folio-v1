@@ -1,18 +1,18 @@
 export const WorkData = [
     {
-        company: "Company 1",
-        designation: "Frontend React Developer",
-        dateOfJoining: "02-02-2021",
-        dateEnd: "05-05-2021",
-        companyLogo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png",
-        work: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum dolores ea nemo nobis qui et possimus at rem ex. ",
+        company: "WizWack Studios",
+        designation: "Full Stack Developer",
+        dateOfJoining: "June 2022",
+        dateEnd: "Present",
+        companyLogo: "https://res.cloudinary.com/debanjan/image/upload/v1661548303/wizwack.studios_fzsgih.png",
+        work: "Ensure user satisfaction and retention by developing new features and fixing bugs. Build and maintain Websites/Apps using various technologies viz- ReactJS, NodeJS, Firebase. "
     },
     {
-        company: "Company 2",
-        designation: "Frontend Developer",
-        dateOfJoining: "05-05-2021",
-        dateEnd: "Present",
-        companyLogo: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BMW_logo_%28gray%29.svg/2048px-BMW_logo_%28gray%29.svg.png",
-        work: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non dolorem sapiente animi possimus nostrum ut incidunt perferendis.",
+        company: "Arch Labs",
+        designation: "Full Stack Developer",
+        dateOfJoining: "May 2022",
+        dateEnd: "July 2022",
+        companyLogo: "https://avatars.githubusercontent.com/u/93611657?s=200&v=4",
+        work: "Built and maintained websites for clients using technologies like MERN. Implemented enhancements that significantly improved web functionality and speed."
     },
 ]
